@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Phone Login</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="otp">OTP Verification</string>
+    <string name="enter_number">Enter Phone Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+</resources>
